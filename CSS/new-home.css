@@ -256,6 +256,7 @@ body{
     .performance-article-text1{
         padding-left: 40px;
         padding-top: 20px;
+        font-size: large;
     }
     .performance-article-2{
         margin: 0px 40px;
@@ -264,6 +265,7 @@ body{
     .performance-article-text2{
         padding-left: 40px;
         padding-top: 20px;
+        font-size: large;
     }
     .performance-article-3{
         margin: 0px 40px;
@@ -272,6 +274,7 @@ body{
     .performance-article-text3{
         padding-left: 40px;
         padding-top: 20px;
+        font-size: large;
     }
     .footer-content{
         position: relative;
