@@ -106,7 +106,6 @@ body{
 .performance-article-1{
     display: flex;
     padding: 10px 10px;
-    background-color: grey;
     border-radius: 15px;
     margin-bottom: 10px;
 }
@@ -117,13 +116,15 @@ body{
     width:50%;
     padding: 5px;
     color: wheat;
+}
+.performance-article-1:hover{
+    background-color: gray;
+    transition: .5s;
     
-
 }
 .performance-article-2{
     display: flex;
     padding: 10px 10px;
-    background-color: grey;
     border-radius: 15px;
     margin-bottom: 10px;
 }
@@ -135,10 +136,14 @@ body{
     padding: 5px;
     color: wheat;
 }
+.performance-article-2:hover{
+    background-color: gray;
+    transition: .5s;
+    
+}
 .performance-article-3{
     display: flex;
     padding: 10px 10px;
-    background-color: grey;
     border-radius: 15px;
     margin-bottom: 10px;
 }
@@ -149,6 +154,11 @@ body{
     width:50%;
     padding: 5px;
     color: wheat;
+}
+.performance-article-3:hover{
+    background-color: gray;
+    transition: .5s;
+    
 }
 .footer{
     background-color: rgb(61, 61, 61);
