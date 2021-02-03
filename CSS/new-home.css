@@ -42,6 +42,10 @@ body{
 .showcase-image > a > img{
     width: 100%;
 }
+.showcase-image a img:hover{
+    opacity: .7;
+    transition: .5s;
+}
 .showcase-image{
     padding: 0px 10px;
     margin-top: 10px;
