@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-image: url(../images/showcase.jpeg);
+    background-color:black;
     font-family: monospace;
 }
 .navbar{
@@ -22,7 +22,7 @@ body{
     text-decoration: none;
     text-transform: uppercase;
     margin-right: 20px;
-    color: black;
+    color: white;
     
 }
 .brand-logo a img{
